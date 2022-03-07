@@ -1,4 +1,0 @@
-HEAD
-Joe 
-Donald 
-3bed827cd1e7ebe96b842b920a9d518a21fd8d87
